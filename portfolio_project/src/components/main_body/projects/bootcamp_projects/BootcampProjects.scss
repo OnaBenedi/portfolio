@@ -1,0 +1,17 @@
+.bootcamp-projects{
+    width: 70%;
+    & h3{
+        border: 1px solid rgb(197, 196, 196);
+        padding: 2vh 1vw;
+        border-radius: 20px;
+    }
+    & h3:hover{
+        cursor: pointer;
+    }
+}
+
+hr{
+    width: 85%;
+    border: 1px solid rgb(197, 196, 196);
+    margin-top: 2%;
+}

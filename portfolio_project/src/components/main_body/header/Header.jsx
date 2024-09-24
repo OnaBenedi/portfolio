@@ -5,10 +5,10 @@ function Header() {
   return (
     <div className="header">
       <h1>¡Bienvenidos a mi portfolio!</h1>
-      <div>
-        <h3>About me:</h3>
-        <p>Soy Ona y me apasiona programar.</p>
-        <p>Full Stack Developer en Girona, España.</p>
+      currenty under development
+      <div className="header-text">
+        <h2>About me</h2>
+        <p>Soy Ona, Full Stack Developer. Me apasiona programar y aprender.</p>
       </div>
     </div>
   );

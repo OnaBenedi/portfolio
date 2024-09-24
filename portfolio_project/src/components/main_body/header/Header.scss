@@ -1,3 +1,22 @@
-.header{
-
+.header {
+  height: 35vh;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  & h1 {
+    color: #87d8db;
+    text-decoration: underline;
+  }
+  & .header-text {
+    & h2 {
+      color: #db9a88;
+      font-size: 1.25vw;
+      margin-bottom: 0;
+    }
+    & p {
+      margin-top: 0;
+      font-size: 1vw;
+    }
+  }
 }
