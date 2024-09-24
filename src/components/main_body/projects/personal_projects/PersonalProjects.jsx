@@ -29,7 +29,7 @@ function PersonalProjects() {
     {
         title: "Portfolio",
         description: "Este portfolio ha sido desarrollado mediante ReactJS y estilizado con SASS.",
-        gitHub: "",
+        gitHub: "https://github.com/OnaBenedi/portfolio",
     }
   ]
   return (

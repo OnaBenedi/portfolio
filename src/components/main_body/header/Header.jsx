@@ -5,6 +5,7 @@ function Header() {
   return (
     <div className="header">
       <h1>¡Bienvenidos a mi portfolio!</h1>
+      CURRENTLY UNDER DEVELOPMENT
       <div className="header-text">
         <h2>About me</h2>
         <p>Soy Ona, Full Stack Developer. <br/> Tengo 24 años y me apasiona programar y aprender.
